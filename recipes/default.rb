@@ -4,8 +4,6 @@
 #
 # Copyright (C) 2012 Adam Ochonicki
 #
-# All rights reserved - Do Not Redistribute
-#
 
 include_recipe "windows"
 
