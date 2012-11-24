@@ -36,4 +36,4 @@ windows cookbook
 
 # Author
 
-Author:: Adam Ochonicki
+Author:: Adam Ochonicki (adam@fromonesrc.com)
