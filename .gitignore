@@ -11,3 +11,4 @@ Gemfile.lock
 knife.rb
 config.json
 Vagrantfile
+.DS_Store
