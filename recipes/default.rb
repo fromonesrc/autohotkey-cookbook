@@ -5,10 +5,9 @@
 # Copyright (C) 2012 Adam Ochonicki
 #
 
-include_recipe "windows"
-
 windows_package "autohotkey" do
   source node.autohotkey.source
+  checksum node.autohotkey.checksum
   installer_type :custom
   options "/S"
   action :install
