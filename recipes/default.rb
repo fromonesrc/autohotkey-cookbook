@@ -7,6 +7,7 @@
 
 windows_package "autohotkey" do
   source node.autohotkey.source
+  checksum node.autohotkey.checksum
   installer_type :custom
   options "/S"
   action :install
